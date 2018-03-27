@@ -1,3 +1,7 @@
+/**
+测试类
+**/
+
 public class SimpleDotComTestDrive {
     public static void main(String[] args) {
         int numOfGuesses = 0;//记录玩家猜测次数的变量
